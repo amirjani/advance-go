@@ -28,3 +28,11 @@ Must handle security and failure, Don't ignore errors
 - algorithm efficiency → readability has more priority
 
 # Data Semantics And Memory
+## variable
+type represent two things: 
+1. amount of memory that it's using 
+2. what that memory represent
+
+
+
+**Go is Conversion over Casting** but we can still use unsafe package to do so
