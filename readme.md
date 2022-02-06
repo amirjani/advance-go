@@ -36,3 +36,6 @@ type represent two things:
 
 
 **Go is Conversion over Casting** but we can still use unsafe package to do so
+
+
+HOW HEAP AND STACK WORKS
